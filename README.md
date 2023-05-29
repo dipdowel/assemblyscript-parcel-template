@@ -1,0 +1,1 @@
+# assemblyscript-parcel-template
