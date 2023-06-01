@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "parcel": "^2.9.1",
-    "parcel-transformer-assemblyscript-codument": "^0.1.1-alpha",
-    "parcel-config-assemblyscript-codument": "0.1.4",
+    "parcel-transformer-assemblyscript-codument": "^0.1.2-alpha",
+    "parcel-config-assemblyscript-codument": "0.1.5",
     "rimraf": "^5.0.0",
     "prettier": "^2.8.8"
   }

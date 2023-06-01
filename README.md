@@ -11,9 +11,13 @@ This template allows to have a working AssemblyScript Web project up and running
 5. Edit something in `index.as.ts` and check the browser console again
 
 ## Feedback
-If something does not work as expected, please [open an issue](https://github.com/dipdowel/assemblyscript-parcel-template/issues).
-If you want to suggest an improvement, please [fork](https://github.com/dipdowel/assemblyscript-parcel-template/) and open a PR.
+### This template
+If something in this template does not work as expected, please [open an issue in the template repo](https://github.com/dipdowel/assemblyscript-parcel-template/issues).
+If you want to suggest an improvement to this template, please [fork it](https://github.com/dipdowel/assemblyscript-parcel-template/) and open a PR.
 
+### The Parcel transformer
+If something in the Parcel transformer (`parcel-transformer-assemblyscript-codument`) does not work as expected, please [open an issue in the transformer repo](https://github.com/dipdowel/parcel-transformer-assemblyscript-codument/issues).
+If you want to suggest an improvement to the transformer, please [fork it](https://github.com/dipdowel/parcel-transformer-assemblyscript-codument/) and open a PR.
 
 ## AssemblyScript
 AssemblyScript is a programming language that allows developers to write high-performance WebAssembly modules using a syntax similar to TypeScript. It enables developers to write low-level, efficient code that can be executed in a browser or other environments supporting WebAssembly. AssemblyScript provides a bridge between the higher-level world of TypeScript and the lower-level world of WebAssembly, making it easier to work with low-level operations while retaining the safety and productivity benefits of TypeScript.
