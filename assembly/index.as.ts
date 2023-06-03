@@ -10,6 +10,7 @@ import { add16bit } from "./helpers/add-16bit";
 export function add(a: i32, b: i32): i32 {
   console.log("[WASM] Hi from the WASM world!");
   const result = add16bit(<i16>a, <i16>b);
+  // const t: i32;
 
   // AssemblyScript allows printing to the console of your browser
   console.log(`[WASM]    add(${a}, ${b}) --> ${result.toString(10)} `);
