@@ -1,3 +1,12 @@
+
+
+## NB: This template is deprecated.
+## Please use [this generator](https://www.npmjs.com/package/assemblyscript-parcel-project-templates-codument) instead.
+- - - -
+This template was moved to a collection of such templates. There's also an interactive installer which makes
+it easier to choose a template that is right for you. 
+- - - -
+
 # assemblyscript-parcel-template
 
 This is a template for AssemblyScript projects that use [Parcel](https://parceljs.org/) as a bundler.
